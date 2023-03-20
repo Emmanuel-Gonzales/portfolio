@@ -37,6 +37,32 @@
         ]
       },
       {
+        "title": "Off-Grid Odyssey",
+        "startDate": "2023",
+        "description": "One of the first projects I worked on in my course. It is a choose your own adventure game that saves in player input, saves it in local storage, and displays a different output based on the input. It utilizes storage elements to display the high score page and dom manipulation. This website uses vanilla javascript.",
+        "images": [
+          "images/portfolio/adventure/OFG1.png",
+          "images/portfolio/adventure/OFG2.png",
+          "images/portfolio/adventure/OFG3.png"
+
+        ],
+        "url": "https://off-grid-odyssey.github.io/Off-Grid-Odyssey/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "301 Project",
         "startDate": "2023",
         "description": "301 Project Placeholder",
