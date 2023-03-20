@@ -16,7 +16,9 @@
         "description": "One of the first projects I worked on in my course. It is a choose your own adventure game that saves in player input, saves it in local storage, and displays a different output based on the input. It utilizes storage elements to display the high score page and dom manipulation. This website uses vanilla javascript.",
         "images": [
           "images/portfolio/adventure/OFG1.png",
-          "images/portfolio/adventure/OFG2.png"
+          "images/portfolio/adventure/OFG2.png",
+          "images/portfolio/adventure/OFG3.png"
+
         ],
         "url": "https://off-grid-odyssey.github.io/Off-Grid-Odyssey/",
         "technologies": [
@@ -36,13 +38,12 @@
       },
       {
         "title": "301 Project",
-        "startDate": "2018",
+        "startDate": "2023",
         "description": "301 Project Placeholder",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://place-hold.it/488x293/000/fff"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -57,37 +58,19 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title":"Full Stack Development in JavaScript",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Angular 1/14/23"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS 3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Git"
         ]
       }
     ]
